@@ -1,4 +1,4 @@
-# entr
+# entr RPM package on openEuler
 
 [entr](http://eradman.com/entrproject/) is a file watcher,
 which run specified commands when target files change.
